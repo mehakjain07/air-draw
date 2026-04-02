@@ -14,7 +14,7 @@ Demo
 
 Once GitHub Pages is enabled, the project can be accessed here:
 
-https://your-username.github.io/air-draw
+https://mehakjain07.github.io/air-draw/
 
 How It Works
 
